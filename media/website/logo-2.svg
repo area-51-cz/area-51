@@ -3,7 +3,7 @@
   <defs>
     <linearGradient id="sw-gradient" x1="0" x2="1" y1="1" y2="0">
       <stop id="stop1" stop-color="rgba(230, 51, 57, 1)" offset="0"/>
-      <stop id="stop2" stop-color="rgba(251, 46.371, 31, 1)" offset="1"/>
+      <stop id="stop2" stop-color="rgba(214, 154, 23, 1)" offset="1"/>
     </linearGradient>
   </defs>
   <g transform="matrix(1, 0, 0, 1, 22.822487, 12.406843)">
